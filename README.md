@@ -1,3 +1,4 @@
+
 This is a repository for the StudentShuttle project, which provides seamless shuttle solutions for college students. The project is developed using HTML, CSS, and JavaScript.
 
 ## Table of Contents
@@ -49,11 +50,14 @@ Contributions to the StudentShuttle project are welcome. If you have any ideas, 
 This project is **free to use** and does not contains any license.
 
 ## Demo
-![Screenshot (116)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/9b16f474-62ad-42a5-8852-24147dac96af)
-![Screenshot (102)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/b0d22db6-034d-4d16-b6e3-950c799616e9)
-![Screenshot (103)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/c3cd3a5b-965d-4148-aa13-16b71a62b39e)
-![Screenshot (105)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/5f75391c-9611-46ff-80fa-c7a7d15ab6be)
-![Screenshot (104)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/8d1add38-af46-48f3-950f-0bd1789c6f87)
+![Screenshot (116)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/8db7c7fa-9eac-437a-b493-44e1c50fe34d)
+![Screenshot (103)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/f93bd4c0-5d1a-4d2f-a9d1-4275d45e6051)
+![Screenshot (102)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/87d90cf0-165b-4617-bddf-b226cf329941)
+![Screenshot (104)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/1f1ead9e-8a6c-4964-80c6-2ffc76c6196e)
+![Screenshot (105)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/613e94ae-23b2-4f7b-9153-31addcfab9fe)
+![Screenshot (106)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/8d202faf-28e7-4c09-85eb-3f20103f928b)
+
+
 
 
 
