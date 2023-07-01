@@ -51,12 +51,11 @@ Contributions to the StudentShuttle project are welcome. If you have any ideas, 
 This project is **free to use** and does not contains any license.
 
 ## Demo
-![Screenshot (116)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/8db7c7fa-9eac-437a-b493-44e1c50fe34d)
-![Screenshot (103)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/f93bd4c0-5d1a-4d2f-a9d1-4275d45e6051)
-![Screenshot (102)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/87d90cf0-165b-4617-bddf-b226cf329941)
-![Screenshot (104)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/1f1ead9e-8a6c-4964-80c6-2ffc76c6196e)
-![Screenshot (105)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/613e94ae-23b2-4f7b-9153-31addcfab9fe)
-![Screenshot (106)](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/8d202faf-28e7-4c09-85eb-3f20103f928b)
+![IMG_7496](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/8013ca91-4bf7-4173-965c-e3ec46799668)
+
+![jayeshvagh11-github-io-1024xFULLdesktop-b72f03](https://github.com/jayeshvagh11/studentshuttle/assets/123942397/18006b3a-c72b-4c2a-bb67-6389d136f8bb)
+
+
 
 
 
